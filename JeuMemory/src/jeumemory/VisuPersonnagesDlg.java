@@ -9,7 +9,7 @@ import javax.swing.JButton;
 
 /**
  *
- * @author moham
+ * @author Yahya
  */
 public class VisuPersonnagesDlg extends javax.swing.JDialog {
 
