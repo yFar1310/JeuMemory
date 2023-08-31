@@ -6,7 +6,7 @@ package jeumemory;
 
 /**
  *
- * @author moham
+ * @author Yahya
  */
 public abstract class Action {
     //attributs
