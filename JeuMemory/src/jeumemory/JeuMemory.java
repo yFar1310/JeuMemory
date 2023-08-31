@@ -16,7 +16,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author mc485207
+ * @author Yahya
  */
 public class JeuMemory extends javax.swing.JFrame {
      
