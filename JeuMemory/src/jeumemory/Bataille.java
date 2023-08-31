@@ -6,7 +6,7 @@ package jeumemory;
 
 /**
  *
- * @author moham
+ * @author Yahya
  */
 public class Bataille extends Action {
     //attribut
