@@ -13,7 +13,7 @@ import javax.swing.JFileChooser;
 
 /**
  *
- * @author moham
+ * @author Yahya
  */
 public class SaisieJoueurDlg extends javax.swing.JDialog {
     Joueur j;//joueur saisie dans la boite
