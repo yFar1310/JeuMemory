@@ -6,7 +6,7 @@ package jeumemory;
 
 /**
  *
- * @author moham
+ * @author Yahya
  */
 public class PlateauJeu {
     private int tab[][];//tableau de deux dimensions
