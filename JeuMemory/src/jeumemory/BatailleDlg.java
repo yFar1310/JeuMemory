@@ -11,7 +11,7 @@ import javax.swing.DefaultListModel;
 
 /**
  *
- * @author mc485207
+ * @author Yahya
  */
 public class BatailleDlg extends javax.swing.JDialog {
 
