@@ -14,7 +14,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author moham
+ * @author Yahya
  */
 public class TransfertDlg extends javax.swing.JDialog {
 
