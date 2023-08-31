@@ -13,7 +13,7 @@ import javax.swing.JButton;
 
 /**
  *
- * @author mc485207
+ * @author Yahya
  */
 public class Personnage {
     private String famille ;//famille de personnage
