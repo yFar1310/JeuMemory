@@ -6,7 +6,7 @@ package jeumemory;
 
 /**
  *
- * @author moham
+ * @author Yahya
  */
 public class Transfert extends Action {
         private Joueur cible;//joueur séléctionée
