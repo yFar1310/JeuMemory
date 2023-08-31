@@ -10,7 +10,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author mc485207
+ * @author Yahya
  */
 public class LesJoueurs {
     
