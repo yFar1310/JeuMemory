@@ -13,7 +13,7 @@ import javax.swing.JButton;
 
 /**
  *
- * @author moham
+ * @author Yahya
  */
 public class VisuJoueursDlg extends javax.swing.JDialog {
 
