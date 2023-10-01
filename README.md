@@ -1,7 +1,7 @@
 # JeuMemory
 JeuMemory est un passionnant jeu de mémoire que j'ai développé en utilisant Java sur NetBeans,
 en tirant pleinement parti de l'approche orientée objet et de l'outil Java SWING pour créer une expérience de jeu fluide et conviviale.
-
+ 
 Le principe de ce jeu est simple et stimulant à la fois. Les joueurs doivent révéler deux cartes à la fois, une première puis l'autre. 
 L'objectif est de trouver les paires de cartes identiques. Lorsqu'une paire identique est trouvée, ces deux cartes se transforment en un élégant gris foncé et demeurent bloquées, 
 permettant ainsi au joueur de continuer à jouer. Cette victoire enregistrée leur donne un avantage stratégique pour la suite du jeu comme prendre des cartes précieuses de l'adversaire.
