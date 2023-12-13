@@ -9,7 +9,7 @@ permettant ainsi au joueur de continuer à jouer. Cette victoire enregistrée le
 Cependant, la mémoire est mise à rude épreuve, car si les deux cartes révélées ne sont pas identiques, elles sont discrètement retournées, et le tour de jeu passe au joueur suivant.
 Cela ajoute une dimension compétitive et une touche de suspense au jeu, incitant les joueurs à se surpasser pour mémoriser les emplacements des cartes.
 
-Ce projet a été une partie importante de mon parcours académique lors de ma deuxième année en L2. 
+Ce projet a été une partie importante de mon parcours académique lors de ma deuxième année en L1. 
 Il représente une opportunité passionnante de non seulement développer mes compétences en programmation Java, mais aussi de créer une interface utilisateur attrayante avec l'aide de NetBeans,
 permettant ainsi à d'autres passionnés de jeux de mémoire de profiter de cette expérience ludique. 
 Pour ceux qui souhaitent tester le jeu ou apporter des améliorations à l'interface graphique,
